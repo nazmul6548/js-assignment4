@@ -26,7 +26,29 @@
 
 
 
+// function checkName(name) {
+//   if (typeof name !== "string") {
+//     return "invalid";
+//   }
+//   let converLowerCase = name.toLowerCase();
+//   let lastLetter = converLowerCase[converLowerCase.length - 1];
+//   if (
+//     lastLetter === "a" ||
+//     lastLetter === "y" ||
+//     lastLetter === "i" ||
+//     lastLetter === "e" ||
+//     lastLetter === "o" ||
+//     lastLetter === "u" ||
+//     lastLetter === "w"
+//   ) {
+//     return "Good Name";
+//   } else {
+//     return "Bad Name";
+//   }
+// }
 
+// const myName = "utsho";
+// console.log(checkName(myName));
 
 
 
