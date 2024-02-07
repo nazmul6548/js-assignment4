@@ -14,18 +14,6 @@
 // const ticket =10;
 // console.log(calculateMoney(ticket));
 
-
-
-
-
-
-
-
-
-
-
-
-
 // function checkName(name) {
 //   if (typeof name !== "string") {
 //     return "invalid";
@@ -54,3 +42,94 @@
 
 
 
+
+// function deleteInvalids(array) {
+//   let myStore = [];
+//   if (Array.isArray(array) !== true) {
+//     return "Invalid Array";
+//   }
+//   for (let i = 0; i < array.length; i++) {
+//     if (typeof array[i] === "number" && !isNaN(array[i])) {
+//       myStore.push(array[i]);
+//     }
+//   }
+//   return myStore;
+// }
+
+// const myInput = [ 1 , 2 , -3 ];
+// console.log(deleteInvalids(myInput));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*function signature/sample */
+function monthlySavings(arr , livingCost) {
+
+    // You have to write your code here
+    }
